@@ -8,8 +8,8 @@ A react built portfolio website
 - [Installation Instructions](#installation-instructions)
 - [Usage Information](#usage-information)
 - [Test Instructions](#test-instructions)
+- [Deployed App](#deployed-app)
 - [Questions](#questions)
-- [Video](#video)
 
 ## Installation Instructions
 ```
@@ -27,6 +27,9 @@ N/A
 
 ## License
 This project is licensed under the terms of the [MIT](https://opensource.org/licenses/MIT) license
+
+## Deployed App
+[herokuApp](https://react-built-portfolio.herokuapp.com/)
 
 ## Questions
 My Github Profile: [cluck135](https://github.com/cluck135)
