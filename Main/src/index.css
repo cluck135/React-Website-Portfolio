@@ -129,7 +129,18 @@ button[disabled] {
 img {
   max-width: 100%;
 }
-
+.profile-img{
+  position: relative;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  object-position: 0% 0%;
+  top: 20px;
+  left: 20px;
+  border: 5px solid black;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px black;
+}
 span[role='img'] {
   cursor: default;
 }

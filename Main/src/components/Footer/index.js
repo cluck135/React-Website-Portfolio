@@ -10,11 +10,11 @@ function Footer() {
     },
     {
       name: "fab fa-linkedin",
-      link: "https://www.linkedin.com/"
+      link: "https://www.linkedin.com/in/casen-luck-747788113/"
     },
     {
-      name: "fab fa-stack-overflow",
-      link: "https://stackoverflow.com/"
+      name: "fab fa-twitter",
+      link: "https://twitter.com/CasenLuck"
     }
   ]
 

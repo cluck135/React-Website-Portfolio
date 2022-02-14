@@ -6,35 +6,29 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'tech-blog',
+      description: 'Node/Express/Sequelize',
+      link: "https://tech-blog-mvc-casen.herokuapp.com/",
+      repo: "https://github.com/cluck135/Tech-Blog"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'booya-social-media',
+      description: 'MVC/Express/Sequelize/Node/APIs',
+      link: "https://booya-unh-coding-bootcamp.herokuapp.com/",
+      repo: "https://github.com/tallen1985/UNH-Project-2"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'note-taker',
+      description: 'Express/Node',
+      link: "https://tranquil-woodland-59466.herokuapp.com/",
+      repo: "https://github.com/cluck135/Express.js-Note-Taker"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
+      name: 'weather-dashboard',
+      description: 'API/Node/CSS/HTML',
+      link: "https://cluck135.github.io/Weather-Dashboard/",
+      repo: "https://github.com/cluck135/Weather-Dashboard"
+    }
   ]);
 
   return (
