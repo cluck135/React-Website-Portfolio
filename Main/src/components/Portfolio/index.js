@@ -28,7 +28,19 @@ function Portfolio() {
       description: 'API/Node/CSS/HTML',
       link: "https://cluck135.github.io/Weather-Dashboard/",
       repo: "https://github.com/cluck135/Weather-Dashboard"
-    }
+    },
+    {
+      name: 'dog-adoption',
+      description: 'Node/APIs/CSS',
+      link: "https://cluck135.github.io/Dog-Adoption-Site/",
+      repo: "hhttps://github.com/cluck135/Dog-Adoption-Site"
+    },
+    {
+      name: 'work-day-scheduler',
+      description: 'Node',
+      link: "https://cluck135.github.io/Work-Day-Scheduler/",
+      repo: "https://github.com/cluck135/Work-Day-Scheduler"
+    },
   ]);
 
   return (
